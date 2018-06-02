@@ -420,11 +420,11 @@
   <string name="lavamp_solid_speed_title">Vitesse de la lampe Lava</string>
   <string name="pulse_solid_units_count">Nombre des lignes pleines</string>
   <string name="pulse_solid_units_opacity">Opacité des lignes pleines</string>
-  <string name="pulse_solid_dimen_category">Solid lines mode settings</string>
-  <string name="fling_lavalamp_color_from">Lava Lamp start color</string>
-  <string name="fling_lavalamp_color_to">Lava Lamp end color</string>
-  <string name="pulse_custom_buttons_opacity_title">Smartbar buttons opacity on Pulse</string>
-  <string name="pulse_auto_color_title">Automatic Pulse color</string>
+  <string name="pulse_solid_dimen_category">Paramètres lignes pleines</string>
+  <string name="fling_lavalamp_color_from">Couleur de départ lampe Lava</string>
+  <string name="fling_lavalamp_color_to">Couleur de fin lampe Lava</string>
+  <string name="pulse_custom_buttons_opacity_title">Opacité des boutons sur Pulse</string>
+  <string name="pulse_auto_color_title">Couleur de Pulse automatique</string>
   <string name="pulse_auto_color_summary">Sync color with album arts. Overrides Lava Lamp and lines opacity.</string>
   <!-- Pulse config -->
   <string name="pulse_custom_dimen">Largeur de la barre</string>
@@ -575,29 +575,29 @@
   <string name="battery_bar_use_charging_color">Couleur de charge personnalisée</string>
   <string name="battery_bar_blend_color_title">Blend colors</string>
   <string name="battery_bar_blend_color_summary">Blend full/empty colors corresponding to battery percentage</string>
-  <string name="battery_bar_blend_color_reverse_title">Reverse color direction</string>
-  <string name="battery_bar_blend_color_reverse_summary_off">Full &#8594; empty: red &#8592; green &#8592; blue &#8592; red</string>
-  <string name="battery_bar_blend_color_reverse_summary_on">Full &#8594; empty: red &#8594; green &#8594; blue &#8594; red</string>
+  <string name="battery_bar_blend_color_reverse_title">Inversion de la direction de la couleur</string>
+  <string name="battery_bar_blend_color_reverse_summary_off">Plein &#8594; vide : rouge &#8592; vert &#8592; bleu &#8592; rouge</string>
+  <string name="battery_bar_blend_color_reverse_summary_on">Plein &#8594; vide : rouge &#8594; vert &#8594; bleu &#8594; rouge</string>
   <!-- Status Bar Ticker -->
   <string name="ticker_screen_title">Ticker</string>
-  <string name="ticker_screen_summary">Show notifications ticker-style in status bar</string>
-  <string name="ticker_title">Status bar ticker</string>
-  <string name="ticker_summary">Enable the status bar ticker</string>
+  <string name="ticker_screen_summary">Afficher les notifications style ticker dans la barre d\'état</string>
+  <string name="ticker_title">Barre d\'état ticker</string>
+  <string name="ticker_summary">Activer l\'ancien ticker dans la barre d\'état</string>
   <string name="ticker_restore_defaults_title">Rétablir les paramètres par défaut</string>
   <string name="text_title">Texte</string>
   <string name="icon_title">Icône</string>
   <string name="colors_title">Couleurs</string>
   <string name="values_restored_title">Valeurs restaurées</string>
-  <string name="ticker_disabled">No ticker</string>
-  <string name="ticker_enabled">Notification ticker</string>
-  <string name="ticker_media_enabled">Notifications and music ticker</string>
-  <string name="ticker_animation_mode_title">Ticker animation style</string>
-  <string name="ticker_animation_mode_alpha_fade">Fade</string>
-  <string name="ticker_animation_mode_scroll">Scroll</string>
+  <string name="ticker_disabled">Pas de ticker</string>
+  <string name="ticker_enabled">Notification Ticker</string>
+  <string name="ticker_media_enabled">Aperçu pour les notifications et la musique</string>
+  <string name="ticker_animation_mode_title">Style d’animation de Ticker</string>
+  <string name="ticker_animation_mode_alpha_fade">Fondu</string>
+  <string name="ticker_animation_mode_scroll">Défilement</string>
   <!-- Pie -->
   <string name="pie_settings">Paramètres Pie</string>
   <string name="pie_enable_title">Activer le Pie</string>
-  <string name="pie_settings_summary">Adjust pie to your liking</string>
+  <string name="pie_settings_summary">Ajuster Pie selon vos goûts</string>
   <string name="pie_theme_mode_title">Thème</string>
   <string name="pie_auto">Automatique</string>
   <string name="pie_white">Blanc</string>
@@ -612,25 +612,25 @@
   <string name="pie_status_none">Aucun</string>
   <string name="pie_status_both">Les deux</string>
   <string name="pie_gravity_title">Gravité de Pie</string>
-  <string name="pie_gravity_summary">Select the location where the Pie will be placed</string>
+  <string name="pie_gravity_summary">Sélectionnez l’emplacement de Pie</string>
   <string name="pie_gravity_bottom">Bas</string>
   <string name="pie_gravity_right">Droite</string>
   <string name="pie_gravity_left">Gauche</string>
   <!-- Breathing Notifications -->
-  <string name="breathing_notifications_category">Breathing notifications</string>
+  <string name="breathing_notifications_category">Notifications animées</string>
   <string name="missed_call_breath_title">Appel manqué</string>
-  <string name="missed_call_breath_summary">Give breathing effect to missed call notifications in the statusbar</string>
+  <string name="missed_call_breath_summary">Animations aux notifications d’appels manqués dans la barre d\'état</string>
   <string name="voicemail_breath_title">Messagerie vocale</string>
-  <string name="voicemail_breath_summary">Give breathing effect to voicemail notifications in the statusbar</string>
+  <string name="voicemail_breath_summary">Animations aux notifications messagerie vocale dans la barre d\'état</string>
   <string name="sms_breath_title">SMS</string>
-  <string name="sms_breath_summary">Give breathing effect to SMS notifications in the statusbar</string>
+  <string name="sms_breath_summary">Animations aux notifications SMS dans la barre d\'état</string>
   <!-- CPU Info -->
   <string name="show_cpu_info">Afficher les infos du Processeur</string>
-  <string name="show_cpu_info_summary">Screen overlay showing current CPU info</string>
+  <string name="show_cpu_info_summary">Superposition d\'écran montrant les infos CPU</string>
   <!-- Heads up timeout -->
-  <string name="heads_up_category">Heads up</string>
-  <string name="heads_up_time_out_title">Time out</string>
-  <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
+  <string name="heads_up_category">Notifications flottantes</string>
+  <string name="heads_up_time_out_title">Durée d\'affichage</string>
+  <string name="heads_up_time_out_summary">Les notifications flottantes s\'afficheront pour <xliff:g id="number">%d</xliff:g> secondes</string>
   <string name="heads_up_time_out_2sec">2 secondes</string>
   <string name="heads_up_time_out_4sec">4 secondes</string>
   <string name="heads_up_time_out_5sec">5 secondes</string>
@@ -638,10 +638,10 @@
   <string name="heads_up_time_out_8sec">8 secondes</string>
   <string name="heads_up_time_out_10sec">10 secondes</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Snooze timer</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
+  <string name="heads_up_snooze_title">Minuteur du rappel d\'alarme</string>
+  <string name="heads_up_snooze_summary_one_minute">Glisser les notifications désactivera les notifications flottantes de cette application pendant 1 minutes</string>
+  <string name="heads_up_snooze_summary">Glisser sur les notifications désactivera les notifications flottantes de cette application pour <xliff:g id="number">%d</xliff:g> minutes</string>
+  <string name="heads_up_snooze_disabled_summary">La minuterie Snooze est désactivée</string>
   <string name="heads_up_snooze_1min">1 minute</string>
   <string name="heads_up_snooze_5min">5 minutes</string>
   <string name="heads_up_snooze_10min">10 minutes</string>
@@ -652,26 +652,26 @@
   <string name="pref_scrollingcache_force_enable">Forcer l\'activation</string>
   <string name="pref_scrollingcache_default_enable">Activer par défaut</string>
   <string name="pref_scrollingcache_default_disable">Désactiver par défaut</string>
-  <string name="pref_scrollingcache_force_disable">Force disable</string>
+  <string name="pref_scrollingcache_force_disable">Forcer la désactivation</string>
   <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Partial screenshot</string>
+  <string name="screenshot_type_title">Capture d’écran partielle</string>
   <string name="screenshot_type_fullscreen">Prendre des captures d’écran en plein écran</string>
-  <string name="screenshot_type_partial">Drag selection on the area for screenshot via volume keys</string>
+  <string name="screenshot_type_partial">Faites glisser la sélection sur la zone de capture d’écran via les touches de volume</string>
   <!-- Screenshot editor -->
-  <string name="screenshot_options_category">Screenshot options</string>
-  <string name="screenshot_edit_app">Screenshot editor</string>
-  <string name="screenshot_edit_app_summary">Select which image editor to use to edit screenshots with</string>
-  <string name="screenshot_edit_app_no_editor">No image editor available</string>
+  <string name="screenshot_options_category">Options de capture d’écran</string>
+  <string name="screenshot_edit_app">Éditeur de capture d\'écran</string>
+  <string name="screenshot_edit_app_summary">Sélectionner l\'éditeur d\'image à utiliser pour modifier les captures d\'écran</string>
+  <string name="screenshot_edit_app_no_editor">Aucun éditeur d\'image disponible</string>
   <!-- Three-fingers-swipe to screenshot -->
-  <string name="three_finger_gesture">Swipe to screenshot</string>
+  <string name="three_finger_gesture">Glisser pour capturer l\'écran</string>
   <string name="three_finger_gesture_summary">Balayer l\'écran avec trois doigts pour faire une capture d\'écran</string>
   <!-- Transparency porn -->
   <string name="trans">Transparence</string>
-  <string name="trans_summary">Customize transparency level for various elements</string>
+  <string name="trans_summary">Personnaliser le niveau de transparence pour divers éléments</string>
   <string name="trans_qs">Réglages rapides</string>
-  <string name="trans_vol_dialog">Volume dialog</string>
+  <string name="trans_vol_dialog">Panneau du volume</string>
   <string name="trans_power_menu">Menu Marche/Arrêt</string>
-  <string name="qs_transparent_shade">QS shade opacity</string>
+  <string name="qs_transparent_shade">Transparence des réglages rapides</string>
   <string name="qs_stroke_title">QS shade border</string>
   <string name="qs_stroke_disabled">Désactivé</string>
   <string name="qs_stroke_accent">Couleur d\'accentuation</string>
