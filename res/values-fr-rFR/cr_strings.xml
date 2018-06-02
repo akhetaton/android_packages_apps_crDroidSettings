@@ -1409,13 +1409,13 @@
   <string name="force_ambient_for_media_title">Select layout</string>
   <string name="force_ambient_for_media_off">Disabled</string>
   <string name="force_ambient_for_media_on">Normal</string>
-  <string name="force_ambient_for_media_on_forced">Normal (forced)</string>
-  <string name="force_ambient_for_media_on_forced_clean">Minimal (forced)</string>
+  <string name="force_ambient_for_media_on_forced">Normal (forcé)</string>
+  <string name="force_ambient_for_media_on_forced_clean">Minimal (forcé)</string>
   <!-- Face Auto Unlock -->
-  <string name="face_auto_unlock_title">Face auto unlock</string>
-  <string name="face_auto_unlock_summary">Dismiss lockscreen automatically after recognizing trusted face</string>
+  <string name="face_auto_unlock_title">Déverrouillage automatique par reconnaissance faciale</string>
+  <string name="face_auto_unlock_summary">Rejeter l\'écran de verrouillage après reconnaissance de visage</string>
   <!-- Battery image -->
-  <string name="battery_image_title">Battery image</string>
+  <string name="battery_image_title">Icône de batterie</string>
   <string name="battery_image_summary">Display battery image</string>
   <!-- Battery percent -->
   <string name="battery_percent_title">Pourcentage de la batterie</string>
@@ -1510,29 +1510,29 @@
   <string name="notification_light_phonelist_title">Téléphone</string>
   <string name="notification_light_use_custom">Utiliser les valeurs personnalisées</string>
   <string name="notification_light_default_value">Par défaut</string>
-  <string name="notification_light_missed_call_title">Missed call</string>
-  <string name="notification_light_voicemail_title">Voicemail</string>
-  <string name="notification_light_screen_on">Lights with screen on</string>
-  <string name="notification_light_zen_mode">Lights in Do Not Disturb mode</string>
-  <string name="keywords_lights_brightness_level">dim leds brightness</string>
-  <string name="notification_light_automagic">Choose colors automatically</string>
-  <string name="notification_light_automagic_summary">Choosing colors automatically</string>
+  <string name="notification_light_missed_call_title">Appel manqué</string>
+  <string name="notification_light_voicemail_title">Messagerie vocale</string>
+  <string name="notification_light_screen_on">Voyants avec écran allumé</string>
+  <string name="notification_light_zen_mode">Voyants en mode « Ne pas déranger »</string>
+  <string name="keywords_lights_brightness_level">diminuer la luminosité des leds</string>
+  <string name="notification_light_automagic">Choix des couleurs automatique</string>
+  <string name="notification_light_automagic_summary">Choix des couleurs automatique</string>
   <!-- Lights settings, LED notification -->
-  <string name="led_notification_title">Light settings</string>
-  <string name="led_notification_text">LED light enabled by settings</string>
-  <string name="notification_light_no_apps_summary">To add per app control, activate \'%1$s\' and press \'\u002b\' on the menu bar</string>
+  <string name="led_notification_title">Paramètres du voyant</string>
+  <string name="led_notification_text">LED activée par les paramètres</string>
+  <string name="notification_light_no_apps_summary">Pour ajouter la gestion par application, activer \'%1$s\' et appuyer sur \'\u002b\' dans la barre de menu</string>
   <!-- QuickSettings Panel Transparency -->
-  <string name="qs_panel_alpha_title">Transparency</string>
-  <string name="qs_panel_alpha_summary">Set transparency level for QS panel</string>
+  <string name="qs_panel_alpha_title">Transparence</string>
+  <string name="qs_panel_alpha_summary">Définissez le niveau de transparence pour panneau des tuiles</string>
   <!-- Substratum -->
   <string name="substratum_title">Substratum</string>
-  <string name="themes_title">Themes</string>
-  <string name="themes_summary">Manage your themes</string>
+  <string name="themes_title">Thèmes</string>
+  <string name="themes_summary">Gérez vos thèmes</string>
   <!-- Force authorize substratum packages -->
-  <string name="force_authorize_substratum_packages_title">Force authorize every theme app</string>
-  <string name="force_authorize_substratum_packages_summary">Allow theme apps from unknown sources</string>
+  <string name="force_authorize_substratum_packages_title">Forcer la demande d\'autorisation pour chaque thème</string>
+  <string name="force_authorize_substratum_packages_summary">Autoriser les thème de sources inconnues</string>
   <!-- Manage applications: show substratum overlays -->
-  <string name="filter_substratum_apps">Substratum overlays</string>
-  <string name="menu_show_substratum">Show overlays</string>
+  <string name="filter_substratum_apps">Surcouches Substratum</string>
+  <string name="menu_show_substratum">Afficher les surcouches</string>
   <string name="menu_hide_substratum">Masquer les surcouches</string>
 </resources>
