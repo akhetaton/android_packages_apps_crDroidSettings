@@ -84,8 +84,8 @@
   <string name="disable_settings_suggestions_title">تعطيل الاقتراحات</string>
   <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
   <!-- Settings summary  -->
-  <string name="remove_settings_summary_title">Remove settings summary</string>
-  <string name="remove_settings_summary_summary">Remove summary underneath tile titles</string>
+  <string name="remove_settings_summary_title">إخفاء ملخص الإعدادات</string>
+  <string name="remove_settings_summary_summary">إزالة الموجز تحت عناوين البلاطات </string>
   <!-- Immersive Recents -->
   <string name="immersive_recents_title">Immersive recents</string>
   <string name="immersive_recents_summary">Change the view of the recents screen</string>
