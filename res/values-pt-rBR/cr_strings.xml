@@ -261,8 +261,8 @@
   <string name="status_bar_logo_style_decepticons">Decepticons</string>
   <string name="status_bar_logo_style_ironman">Ironman</string>
   <string name="status_bar_logo_style_minions">Minions</string>
-  <string name="status_bar_logo_style_spiderman">Spiderman</string>
-  <string name="status_bar_logo_style_superman">Superman</string>
+  <string name="status_bar_logo_style_spiderman">Homem-aranha</string>
+  <string name="status_bar_logo_style_superman">Super-Homem</string>
   <!-- Expanded Desktop -->
   <string name="expanded_desktop_title">Área de trabalho expandida</string>
   <string name="expanded_desktop_summary">Aumente o espaço disponível da sua área de trabalho ocultando a barra de status, a barra de navegação ou ambos</string>
